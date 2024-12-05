@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: 29723625fe26b074dab28b71fbf5858f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Captura de pantalla 2024-12-05 050729_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 405.3333
+        width: 176.25
+        height: 202.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d206bddfe670134a9a25d3de6ba3d3f
+      internalID: 1738979633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captura de pantalla 2024-12-05 050729_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 405.3333
+        width: 176.25
+        height: 202.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88905c254b4d5441b0495c20e1b5ad0
+      internalID: -1177625790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captura de pantalla 2024-12-05 050729_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 405.3333
+        width: 176.25
+        height: 202.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80887edad3df1ff43a59a246825266ac
+      internalID: 616963298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captura de pantalla 2024-12-05 050729_3
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 405.3333
+        width: 176.25
+        height: 202.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe1b60bafd1ec849b7b12ef391a7e70
+      internalID: 323255537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captura de pantalla 2024-12-05 050729_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203.33333
+        width: 176.25
+        height: 202.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376c577bf65db744fb2b34adfa7fe96d
+      internalID: -940931308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captura de pantalla 2024-12-05 050729_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 203.33333
+        width: 176.25
+        height: 202.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9b998baac171644863a26f9156ef14
+      internalID: 630710936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captura de pantalla 2024-12-05 050729_6
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 203.33333
+        width: 176.25
+        height: 202.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7403af0339b078a4a80a89482231220b
+      internalID: -1609060904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captura de pantalla 2024-12-05 050729_7
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 203.33333
+        width: 176.25
+        height: 202.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495807c94fb010c459d800082dcf06c3
+      internalID: 86082739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captura de pantalla 2024-12-05 050729_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.3333282
+        width: 176.25
+        height: 202.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1603b8bcafb4cad488999640f999ba87
+      internalID: -1813600424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captura de pantalla 2024-12-05 050729_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1.3333282
+        width: 176.25
+        height: 202.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d8d6fff96188c42ac625c5e805c9c2
+      internalID: 586195878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captura de pantalla 2024-12-05 050729_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1.3333282
+        width: 176.25
+        height: 202.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb3d2fcea317564aa2fe8a43f815c7d
+      internalID: -1982980339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captura de pantalla 2024-12-05 050729_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1.3333282
+        width: 176.25
+        height: 202.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb54b7d366c4d8a4a84de721fcbe918f
+      internalID: 1764566151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Captura de pantalla 2024-12-05 050729_0: 1738979633
+      Captura de pantalla 2024-12-05 050729_1: -1177625790
+      Captura de pantalla 2024-12-05 050729_10: -1982980339
+      Captura de pantalla 2024-12-05 050729_11: 1764566151
+      Captura de pantalla 2024-12-05 050729_2: 616963298
+      Captura de pantalla 2024-12-05 050729_3: 323255537
+      Captura de pantalla 2024-12-05 050729_4: -940931308
+      Captura de pantalla 2024-12-05 050729_5: 630710936
+      Captura de pantalla 2024-12-05 050729_6: -1609060904
+      Captura de pantalla 2024-12-05 050729_7: 86082739
+      Captura de pantalla 2024-12-05 050729_8: -1813600424
+      Captura de pantalla 2024-12-05 050729_9: 586195878
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

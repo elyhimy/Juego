@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - carro
+  - vida
+  - nivel2
+  - nvl1
+  - nivel3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - suelo
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: fondo
+    uniqueID: 877483393
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: texto
+    uniqueID: 3637230817
+    locked: 0
+  - name: jugador
+    uniqueID: 3514868179
+    locked: 0
